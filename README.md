@@ -6,3 +6,4 @@ hello testing here, blah, blah, blah _b
 ## Adding more stuff here 
 
 1. Im writing this on the GitHub.com Browser instead
+2. im writing this on *Visual Studio* instead. _whoop whoop_   ##**hii**## 
